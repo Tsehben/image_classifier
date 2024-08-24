@@ -27,10 +27,10 @@ This image classifier uses a Convolutional Neural Network (CNN) built with Tenso
 ## Visuals
 
 ### Interface Preview
-![Interface Image](screen_img.png)
+![Interface Image](screen_correct.png)
 
 ### Video Walkthrough
-[![Video Walkthrough](screen_img.png)](demo.mov)
+[![Video Walkthrough](screen_correct.png)](demo_correct.mov)
 
 ## Achievements
 
