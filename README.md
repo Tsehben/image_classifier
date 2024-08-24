@@ -30,7 +30,7 @@ This image classifier uses a Convolutional Neural Network (CNN) built with Tenso
 ![Interface Image](screen_correct.png)
 
 ### Video Walkthrough
-[![Video Walkthrough](screen_correct.png)](demo_correct.mov)
+[![Video Walkthrough](screen_correct.png)](https://github.com/user-attachments/assets/343503eb-38b4-4f19-bd17-b44eff34e1b8)
 
 ## Achievements
 
@@ -46,4 +46,9 @@ This image classifier uses a Convolutional Neural Network (CNN) built with Tenso
 
 ---
 
-This project demonstrates my ability to develop a sophisticated image classifier using deep learning techniques while also creating a user-friendly interface to make the model accessible to a broader audience.
+
+
+
+
+
+
