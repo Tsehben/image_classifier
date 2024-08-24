@@ -18,12 +18,6 @@ This image classifier uses a Convolutional Neural Network (CNN) built with Tenso
 - **Numpy**: Used for numerical operations, including the normalization of image data.
 - **Taipy GUI**: Developed the user interface, enabling easy interaction with the model.
 
-## Project Structure
-
-- `notebooks/`: Contains the Jupyter notebook used for model development, training, and evaluation.
-- `app/`: Includes the code for the Taipy-based graphical user interface.
-- `requirements.txt`: Lists all the dependencies necessary to run the project smoothly.
-
 ## Visuals
 
 ### Interface Preview
